@@ -49,3 +49,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Chris added
+.rvmrc
+.DS_Store
+/outlines/
+/_config-dev.yml
+/start-dev
+/sync-to-s3.sh
+/images/pre-prod/
